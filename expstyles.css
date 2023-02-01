@@ -1,0 +1,55 @@
+html{
+    background-color: rgba(0, 0, 255, 0.589);
+    font-family: helvetica;
+}
+
+#author {
+    margin-top: -20px;
+    text-decoration: underline;
+}
+
+.return {
+    color:red;
+    transition: all 1s;
+}
+
+.return:hover {
+    color:brown
+
+}
+
+#returndiv {
+    background-color:rgb(74, 103, 235);
+}
+
+ul.exp {
+    padding: 0;
+    text-align: match-parent;
+}
+
+.exp li {
+    border-radius: 20px;
+    display: inline-block;
+    background: #e2beff;
+    transition:all .6s;
+    color: white;
+    padding: 5px 10px;
+    margin: 3px;
+  }
+
+.exp li:nth-child(odd) {
+    background: #befffa;
+}
+
+.exp li:hover {
+    transform: scale(1.2) rotate(6deg);
+}
+
+.exp li:nth-child(odd):hover {
+    transform: scale(1.15) rotate(-6deg);
+}
+
+img {
+    border: 5px solid black;
+    border-radius: 20px;
+}
