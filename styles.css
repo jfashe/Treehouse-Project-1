@@ -3,9 +3,9 @@
   box-sizing: border-box;
 }
 
-main {
-  background-color: rgba(0, 0, 255, 0.589);
-}
+/* main {
+  background-color:#5c9ae0;
+} */
 
 body {
   margin: 0;
@@ -13,7 +13,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #f7f5f0;
+  background: #c8d7e7;
 }
 /* Link Styles */
 
@@ -109,7 +109,7 @@ header .profile-image:hover {
   padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
-  background: rgba(127, 255, 185, 0.411);
+  background: rgba(82, 243, 255, 0.411);
   border-bottom: 8px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
