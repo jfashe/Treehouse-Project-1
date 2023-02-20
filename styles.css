@@ -21,6 +21,7 @@ a {
   text-decoration: none;
   color: #999;
 }
+
 a:hover {
   color: #ff3333;
 }
@@ -47,16 +48,21 @@ a:hover {
 .nav .name {
     display: block;
     margin-right: auto;
-    color: white;
+    color: rgb(167, 167, 167);
 }
 .nav li {
   padding: 5px 10px 10px 10px;
 }
 .nav a {
   transition: all .5s;
+  color:rgb(167, 167, 167);
 }
 .nav a:hover {
   color: white
+}
+
+header .skills {
+  max-width:10px;
 }
 
 header {
@@ -118,6 +124,8 @@ header .profile-image:hover {
   border-color: blue;
 }
 
+/* .card:mouseve */
+
 ul.skills {
   padding: 0;
   text-align: center;
@@ -132,16 +140,16 @@ ul.skills {
   margin: 2px;
 }
 
+.skills li:nth-child(odd) {
+  background: #009c68;
+}
+
 #background {
   text-align: center;
 }
 
 #goalz {
   text-align: center;
-}
-
-.skills li:nth-child(odd) {
-  background: #009c68;
 }
 
 footer {
@@ -194,6 +202,91 @@ a.social:hover {
 
 .blue {
   color:blue;
+}
+
+/* My Custom Styles for skills.html */
+.bodywrap {
+  background-color: rgba(138, 138, 255, 1);
+  font-family: helvetica;
+}
+
+#author {
+  margin-top: -20px;
+  text-decoration: underline;
+}
+
+#date {
+  margin-bottom: -2px;
+}
+
+.return {
+  color:rgb(0, 0, 129);
+  transition: all 1s;
+}
+
+.return:hover {
+  color:brown
+
+}
+
+#returndiv {
+  background-color:rgb(74, 103, 235);
+}
+
+a {
+  text-decoration: underline;
+  color: rgb(89, 0, 255)
+}
+
+ul.exp {
+  padding: 0;
+  text-align: match-parent;
+}
+
+.exp li {
+  border-radius: 20px;
+  display: inline-block;
+  background: #e2beff;
+  transition:all .6s;
+  color: white;
+  padding: 5px 10px;
+  margin: 3px;
+}
+
+.exp li:nth-child(odd) {
+  background: #befffa;
+}
+
+.exp li:hover {
+  transform: scale(1.2) rotate(6deg);
+}
+
+.exp li:nth-child(odd):hover {
+  transform: scale(1.15) rotate(-6deg);
+}
+
+#josh {
+  max-width: 70%;
+  border: 5px solid black;
+  border-radius: 20px;
+}
+
+.socials li {
+  border-radius: 0px;
+  display: inline-block;
+  background: none;
+  margin:0px;
+}
+
+.socials li:nth-child(odd) {
+  border-radius: 0px;
+  display: inline-block;
+  background: none;
+  margin: -20px;
+}
+
+#footerhr {
+  margin-top: 75px;
 }
 
 /* Styles for larger screens */
