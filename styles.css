@@ -285,8 +285,33 @@ ul.exp {
   margin: -20px;
 }
 
-#footerhr {
+.footerhr {
   margin-top: 75px;
+}
+
+/* Top 5 Coolest Poeple styles */
+.yellow{
+  color: yellow;
+}
+
+.spaceb{
+  margin: 0; 
+  padding-bottom: 20px;
+}
+
+.pic{
+  max-height:200px;
+  max-width:200px;
+  border: black dotted 5px;
+}
+
+.desc{
+  font-size: 20px;
+  text-decoration: underline;
+  padding-bottom: 20px;
+  font-weight: bold;
+  margin: 0;
+  color: white;
 }
 
 /* Styles for larger screens */
