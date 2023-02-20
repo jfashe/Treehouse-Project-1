@@ -14,8 +14,10 @@ My Personal Profile Page - 2/17/2023
 github.com/jfashe
 -----------------------
 
-Greetings! My name is Josh, and this is my first Treehouse Front-End Web Development Techdegree project!
+Greetings! My name is Josh, and this is my first Treehouse Front-End Web Development Techdegree project! It's a simple html/css profile website.
 There are no real instructions to navigating this site, as it was meant for learning the ropes of HTML and CSS. 
 Click the "Skills" tab to view my various skills and talents.
 
 Thank you!
+
+***This is NOT a portfolio. Please disregard the project name!
