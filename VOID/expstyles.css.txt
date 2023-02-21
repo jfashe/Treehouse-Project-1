@@ -1,0 +1,56 @@
+html{
+    background-color rgba(0, 0, 255, 0.589);
+    font-family helvetica;
+}
+
+#author {
+    margin-top -20px;
+    text-decoration underline;
+}
+
+.return {
+    colorred;
+    transition all 1s;
+}
+
+.returnhover {
+    colorbrown
+
+}
+
+#returndiv {
+    background-colorrgb(74, 103, 235);
+}
+
+ul.exp {
+    padding 0;
+    text-align match-parent;
+}
+
+.exp li {
+    border-radius 20px;
+    display inline-block;
+    background #e2beff;
+    transitionall .6s;
+    color white;
+    padding 5px 10px;
+    margin 3px
+}
+
+.exp linth-child(odd) {
+    background #befffa;
+}
+
+.exp lihover {
+    transform scale(1.2) rotate(6deg);
+}
+
+.exp linth-child(odd)hover {
+    transform scale(1.15) rotate(-6deg);
+}
+
+img {
+    max-width 70%;
+    border 5px solid black;
+    border-radius 20px;
+}

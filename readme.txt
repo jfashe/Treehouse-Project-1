@@ -20,4 +20,5 @@ Click the "Skills" tab to view my various skills and talents.
 
 Thank you!
 
-***This is NOT a portfolio. Please disregard the project name!
+*This is NOT a portfolio. Please disregard the project name!
+**The "VOID" folder is for all the files that are no longer needed.
