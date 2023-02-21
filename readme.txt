@@ -15,10 +15,10 @@ github.com/jfashe
 -----------------------
 
 Greetings! My name is Josh, and this is my first Treehouse Front-End Web Development Techdegree project! It's a simple, personal profile website powered by html and css.
-There are no real instructions to navigating this site, as it was meant for learning the ropes of HTML and CSS. 
+There are no real instructions to navigating the site, as it was meant for learning the ropes of HTML and CSS. 
 Click the "Skills" tab to view my various skills and talents.
 
-Thank you!
+Thank you!!
 
 *This is NOT a portfolio. Please disregard the project name!
 **The "VOID" folder is for all the files that are no longer needed.
