@@ -133,6 +133,14 @@ header .profile-image:hover {
   border: 5px solid black;
 }
 
+iframe {
+  max-width: 420px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid black;
+}
+
 /* .card:mouseve */
 
 ul.skills {
