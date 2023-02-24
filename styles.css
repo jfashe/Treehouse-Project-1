@@ -110,6 +110,11 @@ header .profile-image:hover {
   color:black;
 } */
 
+img {
+  image-rendering: optimizeSpeed;
+  object-fit: fill;
+}
+
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
